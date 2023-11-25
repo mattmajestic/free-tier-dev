@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Table of Contents
+Table of Contents
 
 1. 🐳 [Docker Containers](./docker_containers.md)
 2. 🖼️ [Docker Images](./docker_images.md)

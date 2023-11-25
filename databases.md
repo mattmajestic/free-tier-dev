@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Databases"
+title:  "Databases 📖"
 categories: Databases
 ---
 
-# Databases
+# Databases 📖
 
 Databases are an integral part of many web applications. They provide a way to persist data and provide necessary services for backend applications.
 
