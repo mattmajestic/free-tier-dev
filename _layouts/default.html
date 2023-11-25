@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    {% include head.html %}
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
+</body>
+</html>
