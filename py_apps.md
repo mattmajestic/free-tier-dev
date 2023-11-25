@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Python Apps"
-date:   2023
 categories: Python
 ---
 

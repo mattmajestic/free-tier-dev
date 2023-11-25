@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Docker Images"
-date:   2023
 categories: Docker
 ---
 

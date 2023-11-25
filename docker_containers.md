@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Docker Containers"
-date:   2023
 categories: Docker
 ---
 

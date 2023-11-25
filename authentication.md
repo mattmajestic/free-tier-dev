@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Authentication"
-date:   2023
 categories: Authentication
 ---
 

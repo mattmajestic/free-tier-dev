@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Databases"
-date:   2023
 categories: Databases
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "JavaScript Apps"
-date:   2023
 categories: JavaScript
 ---
 
