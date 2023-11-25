@@ -3,14 +3,22 @@ layout: default
 title: Free Tier Dev Tools
 ---
 
-# Table of Contents
+# Free Tier Dev Tools
 
-## 2023
+This guide provides an overview of free tier resources available for developers.
 
-1. [Docker Images](./docker_images.md)
-2. [Docker Repo](./docker_repo.md)
-3. [Docker Containers ](./docker_containers.md)
-4. [Databases ](./databases.md)
-5. [Authentication](./authentication.md)
-6. [JavaScript Apps](./js_apps.md)
-7. [Python Apps](./py_apps.md)
+## Table of Contents
+
+1. [Docker Containers](./docker_containers.md)
+2. [Databases](./databases.md)
+3. [Authentication](./authentication.md)
+4. [JavaScript Apps](./js_apps.md)
+5. [Python Apps](./py_apps.md)
+
+Each chapter provides a brief overview of the topic and highlights a free resource that developers can use.
+
+Next steps could be:
+
+- Click on a chapter in the table of contents to learn more about that topic.
+- Explore the resources highlighted in each chapter.
+- Apply what you've learned to your own projects.
