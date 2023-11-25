@@ -1,11 +1,3 @@
-title: Free Tier Dev Tools
-email: mattmajestic@strictlyresearch.com
-description: >- 
-  This guide provides an overview of free tier resources available for developers.
-baseurl: "https://mattmajestic.github.io/free-tier-dev/" 
-url: "https://mattmajestic.github.io/free-tier-dev/" 
-github_username:  jekyll
-
 markdown: kramdown
 theme: minima
 plugins:
