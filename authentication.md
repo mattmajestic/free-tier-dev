@@ -11,7 +11,7 @@ Authentication is a crucial part of most applications. It's the process of verif
 
 ## Supabase
 
-![Supabase Logo](https://github.com/supabase/supabase/blob/master/apps/www/public/images/logo-light.png)
+![Supabase Logo](https://avatars.githubusercontent.com/u/54469796?s=200&v=4)
 
 [Supabase](https://supabase.io/) is an open-source Firebase alternative. It provides a set of tools for developers to build modern, scalable applications, including a feature-rich authentication system.
 

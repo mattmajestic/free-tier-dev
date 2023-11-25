@@ -23,7 +23,7 @@ Vercel offers a free tier that includes:
 
 ## Netlify
 
-![Netlify Logo](https://github.com/netlify/netlify-cms/blob/master/website/static/img/netlify-logo.svg)
+![Netlify Logo](https://avatars.githubusercontent.com/u/7892489?s=200&v=4)
 
 [Netlify](https://www.netlify.com/) is another excellent choice for deploying JavaScript apps. It offers an intuitive git-based workflow and powerful serverless platform. With Netlify, you can build, deploy and host your static site or app with a drag and drop interface and automatic delploys from your git repository.
 

@@ -11,7 +11,7 @@ Docker images are lightweight, standalone, executable packages that include ever
 
 ## DockerHub
 
-![Docker Hub Logo](https://github.com/docker/hub-feedback/blob/master/hub-icons/dockerhub.png)
+![Docker Hub Logo](https://avatars.githubusercontent.com/u/5429470?s=200&v=4)
 
 [DockerHub](https://hub.docker.com/) is a cloud-based registry service that allows you to link to code repositories, build your images and test them, stores manually pushed images, and links to Docker Cloud so you can deploy images to your hosts. It provides a centralized resource for container image discovery, distribution and change management, user and team collaboration, and workflow automation throughout the development pipeline.
 
