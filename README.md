@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Free Tier Dev Tools
 ---
 
