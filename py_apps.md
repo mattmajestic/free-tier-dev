@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Python Apps"
+title:  "Python Apps 🐍"
 categories: Python
 ---
 
-# Python Apps
+# Python Apps 🐍
 
 Python is a versatile language that's used in a variety of applications, from web development to data science.
 

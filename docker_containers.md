@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Docker Containers"
+title:  "Docker Containers 🐳"
 categories: Docker
 ---
 
-# Docker Containers
+# Docker Containers 🐳
 
 Docker is a platform that allows you to automate the deployment, scaling, and management of applications within containers.
 

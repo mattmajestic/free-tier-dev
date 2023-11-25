@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Docker Images"
+title:  "Docker Images 📷"
 categories: Docker
 ---
 
-# Docker Images
+# Docker Images 📷
 
 Docker images are lightweight, standalone, executable packages that include everything needed to run a piece of software, including the code, a runtime, libraries, environment variables, and config files.
 

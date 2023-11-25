@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "JavaScript Apps"
+title:  "JavaScript Apps 🍦"
 categories: JavaScript
 ---
 
-# JavaScript Apps
+# JavaScript Apps 🍦
 
 JavaScript is a powerful language that's used for web development to enhance user interaction and provide dynamic functionality.
 

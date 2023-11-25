@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Authentication"
+title:  "Authentication ⚡"
 categories: Authentication
 ---
 
-# Authentication
+# Authentication ⚡
 
 Authentication is a crucial part of most applications. It's the process of verifying the identity of a user.
 
