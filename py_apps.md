@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python Apps"
-date:   2023-11-25 13:26:17 +0000
+date:   2023
 categories: Python
 ---
 
@@ -10,6 +10,8 @@ categories: Python
 Python is a versatile language that's used in a variety of applications, from web development to data science.
 
 ## Streamlit Cloud
+
+![Streamlit Logo](https://avatars.githubusercontent.com/u/45109972?s=48&v=4)
 
 [Streamlit Cloud](https://streamlit.io/cloud) is a platform that allows you to deploy, manage, and share your Python apps. It's an excellent choice for hosting Python apps because it supports all Python libraries, provides automatic updates, and offers secure, private deployments.
 

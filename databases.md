@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Databases"
-date:   2023-11-25 13:26:17 +0000
+date:   2023
 categories: Databases
 ---
 
@@ -10,6 +10,8 @@ categories: Databases
 Databases are an integral part of many web applications. They provide a way to persist data and provide necessary services for backend applications.
 
 ## Railway
+
+![Railway Logo](https://avatars.githubusercontent.com/u/66716858?s=200&v=4)
 
 [Railway](https://railway.app/) is a platform that offers a simple way to start, deploy, and scale applications. It supports several databases including MongoDB, Redis, MySQL, and PostgreSQL.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Authentication"
-date:   2023-11-25 13:26:17 +0000
+date:   2023
 categories: Authentication
 ---
 
@@ -10,6 +10,8 @@ categories: Authentication
 Authentication is a crucial part of most applications. It's the process of verifying the identity of a user.
 
 ## Supabase
+
+![Supabase Logo](https://github.com/supabase/supabase/blob/master/apps/www/public/images/logo-light.png)
 
 [Supabase](https://supabase.io/) is an open-source Firebase alternative. It provides a set of tools for developers to build modern, scalable applications, including a feature-rich authentication system.
 

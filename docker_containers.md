@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Docker Containers"
-date:   2023-11-25 13:26:17 +0000
+date:   2023
 categories: Docker
 ---
 
@@ -10,6 +10,8 @@ categories: Docker
 Docker is a platform that allows you to automate the deployment, scaling, and management of applications within containers.
 
 ## OnRender
+
+![Render Logo](https://avatars.githubusercontent.com/u/36424661?s=200&v=4)
 
 [OnRender](https://www.onrender.com/) is a unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 
