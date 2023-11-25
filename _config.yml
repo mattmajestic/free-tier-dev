@@ -1,1 +1,4 @@
 theme: minima
+
+minima:
+  favicon: /fire-solid.svg
