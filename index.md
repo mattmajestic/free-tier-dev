@@ -11,6 +11,7 @@ Table of Contents
 5. 🟨 [Frontend](./js_apps.md)
 6. 🐍 [Python Apps](./py_apps.md)
 7. 💳 [Payments](./payments.md)
+8. 🤖 [LLM](./llm.md)
 
 Each chapter provides a brief overview of the topic and highlights a free resource that developers can use to build their own SaaS.
 
