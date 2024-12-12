@@ -8,12 +8,13 @@ Table of Contents
 2. 🖼️ [Docker Images](./docker_images.md)
 3. 🗄️ [Databases](./databases.md)
 4. 🔒 [Authentication](./authentication.md)
-5. 🟨 [JavaScript Apps](./js_apps.md)
+5. 🟨 [Frontend](./js_apps.md)
 6. 🐍 [Python Apps](./py_apps.md)
+7. 💳 [Payments](./payments.md)
 
-Each chapter provides a brief overview of the topic and highlights a free resource that developers can use.
+Each chapter provides a brief overview of the topic and highlights a free resource that developers can use to build their own SaaS.
 
-Next steps could be:
+Start By:
 
 - Click on a chapter in the table of contents to learn more about that topic.
 - Explore the resources highlighted in each chapter.
