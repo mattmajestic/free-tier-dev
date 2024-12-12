@@ -10,7 +10,7 @@ Managing payments effectively is a critical component of modern web applications
 
 ## Stripe
 
-![Stripe Logo](https://stripe.com/img/v3/home/twitter.png)
+![Stripe Logo](https://stripe.com/favicon.ico)
 
 [Stripe](https://stripe.com/) offers a suite of APIs that enable developers to accept payments, send payouts, and manage their businesses online. Its clean documentation, robust SDKs, and versatile payment solutions make it a go-to choice for developers.
 

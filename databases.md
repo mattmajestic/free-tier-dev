@@ -10,7 +10,7 @@ Databases are an integral part of many web applications. They provide a way to p
 
 ## Neon
 
-![Neon Logo](https://neon.tech/logo.png)
+![Neon Logo](https://neon.tech/favicon.ico)
 
 [Neon](https://neon.tech/) is a serverless PostgreSQL platform designed to simplify database management and scaling. It offers modern features like branching, point-in-time recovery, and on-demand scaling, making it an excellent choice for developers building scalable applications.
 
